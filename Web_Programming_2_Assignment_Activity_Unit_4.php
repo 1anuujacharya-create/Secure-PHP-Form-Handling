@@ -1,4 +1,8 @@
 <?php
+/**
+* Author: Anuj Acharya
+* Date: 2025-10-01
+
 // -------------------- START SESSION --------------------
 session_start();
 
